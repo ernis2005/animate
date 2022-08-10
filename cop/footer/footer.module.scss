@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Mono:wght@100&display=swap');
+
+.Footer {
+    width: 1350px;
+    height: 376px;
+    display: flex;
+    margin-top: 10px;
+    background: #070C11;
+    opacity: 0.95;
+    justify-content: space-around;
+    color: #fff;
+    font-family: 'Poppins';
+    margin: 0 auto;
+
+    align-items: center;
+
+    .div {
+        h1 {
+            color: #fff;
+        }
+
+        p {
+            color: #fff;
+        }
+    }
+
+    .div2 {
+        h1 {
+            color: #fff;
+        }
+
+        p {
+            color: #fff;
+        }
+    }
+
+    .div3 {
+        h1 {
+            color: #fff;
+        }
+
+        p {
+            color: #fff;
+        }
+    }
+}
